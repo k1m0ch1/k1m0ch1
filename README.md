@@ -1,3 +1,10 @@
 ### Hi there 👋
 
-![](https://media3.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif?cid=ecf05e47su0ec161tfbiir4dm1oj0co60lxcvhc0aj7544eq&rid=giphy.gif)
+I'm Yahya, just a normal software engineer, currently working at eFishery 🐟 as Software Engineer Lead
+
+you can reach me at
+- ![Twitter @BukanYahya](https://twitter.com/BukanYahya)
+- ![Twitch buk4nyahya](http://twitch.com/buk4nyahya)
+- ![LinkedIn](www.linkedin.com/in/yahya-fadhlulloh-al-fatih-a568a455)
+
+![k1m0ch1 github stats](https://github-readme-stats.vercel.app/api?username=k1m0ch1)
