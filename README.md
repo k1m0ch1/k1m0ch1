@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Yahya
-,just a normal software engineer, currently working at eFishery 🐟 as Software Engineer Lead, 
+a normal software engineer, currently working at eFishery 🐟 as Software Engineer Lead, 
 I was lead engineer team in Supply and Marketplace, and now I lead engineer team in Infrastructure&Security
 
 💬 most used language  Python GoLang and JS
@@ -7,6 +7,7 @@ I was lead engineer team in Supply and Marketplace, and now I lead engineer team
 📞 you can reach me at
 - [Twitter @BukanYahya](https://twitter.com/BukanYahya)
 - [Twitch buk4nyahya](http://twitch.com/buk4nyahya)
+- [YOutube k1m0ch1](https://www.youtube.com/channel/UCrDI93zGBH6C6GXTGl5gPfg)
 - [LinkedIn](www.linkedin.com/in/yahya-fadhlulloh-al-fatih-a568a455)
 
 My best Work 
