@@ -11,7 +11,7 @@ I was lead engineer team in Supply and Marketplace, and now I lead engineer team
 
 My best Work 
 - [NeMo - The WhasApp Bot Framework](https://github.com/eFishery/NeMo)
-- [Vaksin Jakarta API](https://github.com/k1m0ch1/vaksin-jakarta) implemented at https://t.co/6yL2ZflH74?amp=1 and build by community from this [twitter thread](https://twitter.com/mathdroid/status/1411712464916414467)
+- [Vaksin Jakarta API](https://github.com/k1m0ch1/vaksin-jakarta) implemented at https://vaksin-jakarta.yggdrasil.id/ and build by community from this [twitter thread](https://twitter.com/mathdroid/status/1411712464916414467)
 
 ## Github Stat
 
